@@ -34,23 +34,23 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
 
-    R: Semantic HTML is the use of meaningful HTML tags to provide a better context to the end-user of the structure of the site. ei, `<header><main><footer>` explicitly answers that's the top of the page, the main content and the footer of the page.
+    **R:** Semantic HTML is the use of meaningful HTML tags to provide a better context to the end-user of the structure of the site. ei, `<header><main><footer>` explicitly answers that's the top of the page, the main content and the footer of the page.
 
 2. Name two big differences between `display: block;` and `display: inline;`.
 
-    R: Block allows for properties such as width and height && block also reserves 100% of the width space available, regardless if the width of the element is that width where inline doesn't have these properties.
+    **R:** Block allows for properties such as width and height && block also reserves 100% of the width space available, regardless if the width of the element is that width where inline doesn't have these properties.
 
 3. What are the 4 areas of the box model?
 
-    R: Content, padding, border and margin.
+    **R:** Content, padding, border and margin.
 
 4. While using flexbox, what axis does the following property work on: `align-items: center`?
 
-    R: It works on the cross axis.
+    **R:** It works on the cross axis.
 
 5. Explain why git is valuable to a team of developers.
 
-    R: It allows for version control of your code. It keeps track of all changes, handles mergin conflicts and it serves as a backup - the ability to go to a previous commit to avoid any unseen problems. It allows for collaboration between developers which is probably the greatest benefit - open source.
+    **R:** It allows for version control of your code. It keeps track of all changes, handles mergin conflicts and it serves as a backup - the ability to go to a previous commit to avoid any unseen problems. It allows for collaboration between developers which is probably the greatest benefit - open source.
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section _will_ prevent you from passing this challenge.
 
